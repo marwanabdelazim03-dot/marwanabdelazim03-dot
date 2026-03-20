@@ -49,7 +49,7 @@
 - 🐍 Specialized in **Python automation** for security researchers and penetration testers
 - 🎯 Target audience: Security researchers, penetration testers, and bug bounty hunters
 - 🏆 Active on **TryHackMe** with completed pentesting modules
-- 📜 **Certifications**: Cisco Introduction to Cybersecurity, CCNA (in progress)
+- 📜 **Certifications**: Cisco Introduction to Cybersecurity, CCNA
 - 💻 **Working with**: Kali Linux, VMware, Python, Subfinder, n8n, OBS
 
 ---
