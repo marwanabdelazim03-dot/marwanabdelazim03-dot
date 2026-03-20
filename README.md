@@ -12,9 +12,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=marwanabdelazim03-dot&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=2" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/api/?username=marwanabdelazim03-dot&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=2" alt="marwanabdelazim03-dot" />
+  </a>
 </p>
-
 
 ---
 ## 🚀 Current Work
