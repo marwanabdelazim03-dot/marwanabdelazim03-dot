@@ -3,7 +3,8 @@
 <h3 align="center">🔐 Python Security Automation Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR2YTFsdnY4ZDhvNTMydmRhNW9qd3ljOHVoeXg2ZG5sZHZoMXIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR2YTFsdnY4ZDhvNTMydmRhNW9qd3ljOHVoeXg2ZG5sZHZoMXIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="380"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZuM3NxajhodTIyNmtic3Q3Nnc5eWd4bHFiZ3hnMDg4NWtvNWgxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QV05sKERFPifgwg5Ar/giphy.webp" width="380"/>
 </p>
 
 <p align="center">A passionate cybersecurity student specializing in Python automation tools for penetration testing, reconnaissance, and OSINT operations.</p>
@@ -59,12 +60,6 @@
 - 🏆 Active on **TryHackMe** with completed pentesting modules
 - 📜 **Certifications**: Cisco Introduction to Cybersecurity, CCNA (in progress)
 - 💻 **Working with**: Kali Linux, VMware, Python, Subfinder, n8n, OBS
-
----
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZuM3NxajhodTIyNmtic3Q3Nnc5eWd4bHFiZ3hnMDg4NWtvNWgxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QV05sKERFPifgwg5Ar/giphy.gif" width="300"/>
-</p>
 
 ---
 
@@ -164,7 +159,7 @@ A comprehensive collection of Python-based cybersecurity automation tools design
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2025 Goals
 
 - ✅ Complete eJPTv2 certification
 - ✅ Contribute to 10+ open-source security projects
