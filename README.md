@@ -150,7 +150,7 @@ A comprehensive collection of Python-based cybersecurity automation tools design
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - ✅ Complete eJPTv2 certification
 - ✅ Contribute to 10+ open-source security projects
