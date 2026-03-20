@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwanabdelazim03-dot/Cyber-Automation-Tools](https://github.com/marwanabdelazim03-dot/Cyber-Automation-Tools)
 
-- 💼 about me **🎓 Cybersecurity student at Sohag National University - Faculty of Computers and Information 🐍 Specialized in Python automation for security researchers and penetration testers 🎯 Target audience: Security researchers, penetration testers, and bug bounty hunters 🏆 Active on TryHackMe with completed pentesting modules 📜 Certifications: Cisco Introduction to Cybersecurity, CCNA (in progress) 💻 Working with: Kali Linux, VMware, Python, Subfinder, n8n, OBS**
+- 💼 about me **🎓 Cybersecurity student at Sohag National University - Faculty of Computers and Information 🐍 Specialized in Python automation for security researchers and penetration testers 🎯 Target audience: Security researchers, penetration testers, and bug bounty hunters 🏆 Active on TryHackMe with completed pentesting modules 📜 Certifications: Cisco Introduction to Cybersecurity, CCNA 💻 Working with: Kali Linux, VMware, Python, Subfinder, n8n, OBS**
 
 - 📫 How to reach me **marwanahmed2006.0@gmail.com**
 
