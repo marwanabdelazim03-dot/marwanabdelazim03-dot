@@ -11,6 +11,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/api/?username=marwanabdelazim03-dot&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=2" />
+</p>
+
+
+---
 ## 🚀 Current Work
 
 🔭 **I'm currently working on:**
