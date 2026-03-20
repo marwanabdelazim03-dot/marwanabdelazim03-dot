@@ -11,11 +11,15 @@
 
 ---
 
+<!-- GitHub Stats -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/api/?username=marwanabdelazim03-dot&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=2" alt="marwanabdelazim03-dot" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=marwanabdelazim03-dot&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwanabdelazim03-dot&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanabdelazim03-dot&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%"/>
+</p>>
 
 ---
 ## 🚀 Current Work
